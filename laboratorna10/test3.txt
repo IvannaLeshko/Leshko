@@ -1,0 +1,8 @@
+abcdef
+abcba
+abcab
+xyzyx
+xyzxyz
+hello
+aabcaa
+12abc12

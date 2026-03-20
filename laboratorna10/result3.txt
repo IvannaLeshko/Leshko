@@ -1,0 +1,3 @@
+abcab
+aabcaa
+12abc12
